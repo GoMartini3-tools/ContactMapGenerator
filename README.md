@@ -6,4 +6,5 @@ Reference:
 > Wołek, K., Gómez‐Sicilia, À., & Cieplak, M.  
 > *The Journal of Chemical Physics*, 143(24)  
 > DOI: [10.1063/1.4929599](https://doi.org/10.1063/1.4929599)
+
 Note: this repository is under development. 
