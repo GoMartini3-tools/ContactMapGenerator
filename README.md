@@ -9,7 +9,7 @@ References:
 >
 > **Gōmartini 3: from large conformational changes in proteins to environmental bias corrections.**  
 > Souza, P. C. T., Borges-Araújo, L., Brasnett, C., Moreira, R. A., Grünewald, F., Park, P., Wang, L., Razmazma, H., Borges-Araújo, A. C., Cofas-Vargas, L. F., Monticelli, L., Mera-Adasme, R., Melo, M. N., Wu, S., Marrink, S. J., Poma, A. B., & Thallmair, S.
->*Nature Communications*, 16(1).
+> *Nature Communications*, 16(1).
 > DOI: [10.1038/s41467-025-58719-0](https://doi.org/10.1038/s41467-025-58719-0)
 
 Note: this repository is under development. 
