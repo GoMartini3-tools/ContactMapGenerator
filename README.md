@@ -7,7 +7,7 @@ References:
 > *The Journal of Chemical Physics*, 143(24)  
 > DOI: [10.1063/1.4929599](https://doi.org/10.1063/1.4929599)
 >
-> > **Gōmartini 3: from large conformational changes in proteins to environmental bias corrections.**  
+> **Gōmartini 3: from large conformational changes in proteins to environmental bias corrections.**  
 > Souza, P. C. T. and Borges-Araújo, L. and Brasnett, C. and Moreira, R. A. and Grünewald, F. and Park, P. and Wang, L. and Razmazma, H. and Borges-Araújo, A. C. and Cofas‐Vargas, L. F. and Monticelli, L. and Mera‐Adasme, R. and Melo, M. N. and Wu, S. and Marrink, ‪. J. and Poma, A. B. and Thallmair, S.  
 >*Nature Communications*, 16(1).
 > DOI: [10.1038/s41467-025-58719-0](https://doi.org/10.1038/s41467-025-58719-0)
