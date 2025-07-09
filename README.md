@@ -1,5 +1,5 @@
 # ContactMapGeneratorGPU
-We are implementing the contact map generator written by Rodrigo Moreira, existing in C language to python, for handling CIF files with outputs for GōMartini 3 simulations.
+We are implementing the contact map generator written by Dr. Rodrigo Azevedo Moreira da Silva, existing in C language to Python, for handling CIF files with outputs for GōMartini 3 simulations.
 
 References:
 > **Determination of contact maps in proteins: A combination of structural and chemical approaches**  
