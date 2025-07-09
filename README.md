@@ -8,4 +8,4 @@ Reference:
 > *The Journal of Chemical Physics*, 143(24)  
 > DOI: [10.1063/1.4929599]([https://doi.org/10.1088/1478-3975/12/4/046002](https://doi.org/10.1063/1.4929599))
 >
-> Note: this repository is under development. 
+Note: this repository is under development. 
